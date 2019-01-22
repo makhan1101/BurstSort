@@ -1,0 +1,2 @@
+# BurstSort
+Implementation of BurstSort
