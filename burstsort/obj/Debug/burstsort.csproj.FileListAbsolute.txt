@@ -1,0 +1,7 @@
+D:\ds project\burstsort\burstsort\bin\Debug\burstsort.exe.config
+D:\ds project\burstsort\burstsort\bin\Debug\burstsort.exe
+D:\ds project\burstsort\burstsort\bin\Debug\burstsort.pdb
+D:\ds project\burstsort\burstsort\obj\Debug\burstsort.csprojAssemblyReference.cache
+D:\ds project\burstsort\burstsort\obj\Debug\burstsort.csproj.CoreCompileInputs.cache
+D:\ds project\burstsort\burstsort\obj\Debug\burstsort.exe
+D:\ds project\burstsort\burstsort\obj\Debug\burstsort.pdb
