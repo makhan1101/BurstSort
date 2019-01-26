@@ -12,4 +12,4 @@ Burst sort is an algorithm used for sorting strings. It works very efficiently o
 You have to replace the elements of pre define array in main to sort ur string data But you cannot input an empty string.
 
 # Group Members
-M.Ahsan Khan(17B-050-CS)  Areeba Asif Baig(17B-014-CS)  Saim Abbas(17B-036-CS)
+Muhammad Ahsan Khan(17B-050-CS)  Mirza Areeba Baig(17B-014-CS)  Syed Saim Abbas(17B-036-CS)
